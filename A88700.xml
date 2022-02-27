@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A large relation of the fight at Leith neere Edenburgh. Wherein Major Generall Montgomery, Colonell Straughan, with many more of quality of the Scottish party were slaine and wounded. The particulars on both sides fully related, with a list of the prisoners taken, and number kild. Also a perfect account of every dayes transactions  and engagements between the armies, since our armies first entring Scotland. Published by authority.</title>
+            <author>Lardner, James, b. 1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88700</idno>
+            <idno type="STC">Wing L438</idno>
+            <idno type="STC">Thomason E609_1</idno>
+            <idno type="STC">ESTC R205935</idno>
+            <idno type="EEBO-CITATION">99865156</idno>
+            <idno type="PROQUEST">99865156</idno>
+            <idno type="VID">117393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88700)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117393)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E609[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A large relation of the fight at Leith neere Edenburgh. Wherein Major Generall Montgomery, Colonell Straughan, with many more of quality of the Scottish party were slaine and wounded. The particulars on both sides fully related, with a list of the prisoners taken, and number kild. Also a perfect account of every dayes transactions  and engagements between the armies, since our armies first entring Scotland. Published by authority.</title>
+                  <author>Lardner, James, b. 1670.</author>
+               </titleStmt>
+               <extent>[8], p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Ed. Griffin in the old Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Attributed to James Lardner.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117393:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <p>A Large RELATION OF THE FIGHT at LEITH NEERE EDENBURGH.</p>
+            <p>Wherein Major Generall <hi>Montgomery,</hi> Co<g ref="char:EOLhyphen"/>lonell <hi>Straughan,</hi> with many more of quality of the Scottiſh party were ſlaine and wounded.</p>
+            <p>The Particulars on both ſides fully related, With a Liſt of the Priſoners Taken, and Number kild.</p>
+            <p>Alſo a perfect Account of every Dayes Tranſ-Actions and Engagements between the Armies, ſince our Armies firſt entring <hi>Scotland.</hi>
+            </p>
+            <p>Publiſhed by Authority.</p>
+            <p>LONDON, Printed by <hi>Ed. Griffin</hi> in the old Baily, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <div type="part">
+               <pb facs="tcp:117393:2"/>
+               <!-- PDF PAGE 75 -->
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>ON Thurſday <hi>Iuly</hi> 25. the Generall and Army marched from <hi>Mordington</hi> to <hi>Copperſmith,</hi> Col. <hi>Hackers</hi> Regiment being drawn up in the way; His Excellency made a ſpeech to ſatisfie them concerning Cap <hi>Ogles</hi> Troope, being ſent back into <hi>Northumberland,</hi> in regard of his intereſt in that County; and that Cap. <hi>Greenwoods</hi> Troop appointed for <hi>Barwick</hi> ſhould march with the Regiment in the ſtead thereof, which gave great ſatisfaction. Col. <hi>Brights</hi> Regiment being drawn up, Major Gen. <hi>Lambert</hi> appointed Colonel thereof, comming to the head of the Regiment was received with great acclamations.</p>
+               <p>By the way we had intelligence from <hi>Edinburgh</hi> that on Munday laſt moſt part of the inhabitants of the City ſhut up their ſhops, and carried away moſt part of their Goods towards <hi>Sterling.</hi> That the Army was muſtered neere <hi>Edinburgh,</hi> their horſe were 2500, old horſe of <hi>David Leſleys,</hi> the new raiſed made them up 5000. the Foot not certainly known, in regard that orders were given for leavies, but the men not come in; thoſe that appeared were about 10000. That the Prince remo<g ref="char:EOLhyphen"/>ved from <hi>Falklend</hi> to St. <hi>Iohnſtons</hi> on Saturday laſt, and intended not to ſtay there, but to goe to <hi>Sterling.</hi> That Major Gen. <hi>Maſſey</hi> was in <hi>Edinburgh,</hi> but not in command.</p>
+               <p>His Excellency quartered this night at Sir <hi>Iames Nicholſons</hi> at <hi>Copperſmith,</hi> being a Port Town about 14 miles from <hi>Barwick;</hi> when our Scouts came firſt to the Town they were met withall by three Scots, which our men diſarmed, and took priſoners, but at night (they alledging they were only Countreymen, and that their Miniſters &amp; Grandees had given out that the Army would kill man, woman, and child) whereupon their Swords and other things taken from them were ordered by his Excellency to be re<g ref="char:EOLhyphen"/>ſtored,
+<pb facs="tcp:117393:2"/>
+                  <!-- PDF PAGE 75 -->
+and the men diſmiſt, which we hope will work well upon the Country. One of our Scouts met with one of the Enemy, who ran at him with a Lance, and broke it againſt his Armor, but ſeeing our Scout had the better he quitted his horſe and fell headlong down a ſteep hill where our Trooper could not fol<g ref="char:EOLhyphen"/>low him, but ſeized the horſe.</p>
+               <p>In the march between <hi>Mordington</hi> and <hi>Copperſmith</hi> we ſaw not any Scotchman, in <hi>Eyton</hi> and other places that we paſſed tho<g ref="char:EOLhyphen"/>row, but the ſtreets were full of Scotch women, pitifull ſorry creatures, clothed in white Flannell in a very homely manner, very many of them much bemoaned their husbands, who they ſaid were enforced by the Lairds of the Towns to gange to the muſter.</p>
+               <p>Friday, <hi>Iuly</hi> 26. his Excellency marched from <hi>Copperſmith</hi> to <hi>Dunbarre,</hi> a port Town of Trade, and populous, where ſome Scotch foot had been the night before, but upon the comming in of ſome of our Scouts ran away, ſo that one man might chaſe ten or twenty of them, not daring one of them to look back. We underſtand the Enemy were not farre from the Town, but ran away ſo ſoon as our horſe drew towards them. All the men in this Town as in other places of this daies march were fled, and not any to be ſeen above ſeven or under 70 yeeres old, but onely ſome few decrepid ones.</p>
+               <p>Our Souldiers had not been long in the Town, but there was an alarm that the enemy were comming on, whereupon the Souldiers were drawn out into the field, though much ſtreightned for proviſions; but ſince the <hi>Amity</hi> and other ſhips are come from <hi>Newcaſtle</hi> with proviſions. This day we marcht to <hi>Haddington.</hi> A party of the Scots who live about <hi>Hume</hi> caſtle fell upon ſome Countreymen who were bringing proviſions to the Army out of <hi>Northumberland,</hi> and cut the men, but the Gover<g ref="char:EOLhyphen"/>nour of <hi>Barwick</hi> hath ſent a Troop of horſe which will ſcoure the coaſts. Thus far from <hi>Dunbarre</hi> July 27.</p>
+               <p>On Sunday <hi>July</hi> 28 our Army went forth betimes in the morning from <hi>Haddington</hi> and Rendezvouzd upon <hi>Gladmore,</hi> the Enemy appeared in ſmall bodies, divers of them were taken.</p>
+               <p>Thoſe that quartered in <hi>Muſlebrough</hi> the night before quitted it, ſome of Col. <hi>Fleetwoods</hi> Regiment comming upon them took
+<pb facs="tcp:117393:3"/>
+                  <!-- PDF PAGE 76 -->
+ſeverall priſoners. A party of three of ours charged 12 of theirs and took three.</p>
+               <p>A Trooper in Col. <hi>Whaleys</hi> Regiment was ſentenc't at a Court Marſhall to have his horſe and Armes taken from him, and to work as a pioneere for three weeks for taking away ſome Curtaines and other things out of a Scottiſh Gentlemans houſe.</p>
+               <p>Major <hi>Haines</hi> being ſent with a commanded party towards the Enemy, followed them within halfe a Mile of <hi>Edenburgh.</hi> This day we underſtood that one Mr. <hi>Iohn Lowe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> a Scotch Mi<g ref="char:EOLhyphen"/>niſter preached upon this Text in <hi>Edenburgh, Exod</hi> 14.8. the words and his comment upon them are very obſervable but too long to be related.</p>
+               <p>Munday <hi>July</hi> 29. the Army drew out of <hi>Muſlebrough</hi> within two Miles of <hi>Edenburgh,</hi> our horſe and theirs puckeerd all the forenoone, about foure in the afternoone his Excellency com<g ref="char:EOLhyphen"/>manded a forlorne of horſe neere <hi>Arthurs</hi> Hill, who faced the Enemy and ſtill continued puckering, but perceiving the Enemy had lyned the Parke wall with Muskateers, &amp; had the command of the hill, whereby they vewed our Army, A forlorne of Mus<g ref="char:EOLhyphen"/>kateers were ſent to beate them off which they did without loſs.</p>
+               <p>While this was doing a piece of Ordinance was drawing up neere the Hill which playd upon a great part of the Enemies bo<g ref="char:EOLhyphen"/>dy, who then faced us, but quickly quit their ground and retrea<g ref="char:EOLhyphen"/>ted to their maine body who had intrenched themſelves be<g ref="char:EOLhyphen"/>tween <hi>Leith</hi> and <hi>Edenburgh.</hi> By this time the whole Army were drawn up in Battalia in ſight of <hi>Edenburgh.</hi> A party ſent to poſſeſſe ſome houſes neer the Town, which they did, and the Train drawn up there.</p>
+               <p>This day Captaine <hi>Hall</hi> Reere Admirall, being come up with the <hi>Liberty,</hi> the <hi>Heart Frigot,</hi> the <hi>Garland,</hi> &amp; the <hi>Dolphin</hi> plaid hard with their Ordnance into <hi>Leith,</hi> while the Army plaid with theirs by land til eleven at night, and ſo again after three in the morning; all this while the Army ſtood drawne up in the field; and from the firſt appearing till the next day at eight or nine a Clock, there fell an exceeding great deale of Raine, which hindred the attempting of any thing, and the enemy not ſtirring out of their intrenchment and fortifications, which latter did more trouble our Souldiers, who were exceeding cheerfull, and deſirous of nothing ſo much as to fight then all the unſeaſona<g ref="char:EOLhyphen"/>bleneſſe
+<pb facs="tcp:117393:3"/>
+                  <!-- PDF PAGE 76 -->
+of the weather; while our Army was thus drawne out of <hi>Muſſelborough,</hi> many of the wretched Country people, who had hid themſelves in Coalepits, at the comming of our men came to the Towne, and fell to Barocadoing of it, and 500 of them got together with an intent to have cut the throats of the Army in caſe they had beene beaten, which they expected; and had Orders as they ſaid from Lieutenant Gen. <hi>Leſley</hi> ſo to doe, Major <hi>Haines</hi> with a party of Col. <hi>Fleetwoods</hi> Regiment fell upon them; killed 30 of them, wounded others, and tooke a<g ref="char:EOLhyphen"/>bout 40 Priſoners.</p>
+               <p>
+                  <hi>Tueſday</hi> July 30. It being not held adviſable to fall upon the Enemy, who were more in number then our ſelves; and had the two Garriſons of <hi>Leith</hi> and <hi>Edenburgh,</hi> beſides the advantage of a high and ſtrong Hill, where they had intrencht themſelves. The Army drew off towards <hi>Muſſelborough</hi> for refreſhment, both of horſe and man, which the enemy perceiving with great bo<g ref="char:EOLhyphen"/>dies of horſe, the one from <hi>Leith</hi> on the right, and the other from <hi>Cannygate</hi> on the left, marcht furiouſly on, and fell upon the Reere Guard, being but 200 horſe commanded by Captaine <hi>Evanſon</hi> who received the charge, but being over<g ref="char:EOLhyphen"/>powred by the enemy retreated, then the Generalls Regiment being neere advanc't towards the enemy gave them a hot charge and routed them; after this the enemy came up againe with another freſh body, and put the Generals Regiment to a re<g ref="char:EOLhyphen"/>treat; hereupon four Troops of Col. <hi>Whaleyes</hi> Regiment, and Major Gen. <hi>Lamberts</hi> charged them, routed them, and purſued them to the Line, in doing of which our men were diſordered; and the enemy perceiving it came up againe with another freſh body of horſe, thinking thereby to have put us to the long run, but upon the comming up of one Troop more of Col. <hi>Whalyes</hi> Regiment, commanded by Captaine <hi>Chillinden,</hi> being in good order charged them, and put them to the run, purſuing and killing them, even to and within their Line, ſo that after this the enemy at that Port had no mind to engage, whileſt theſe Regiments were thus employed; Col. <hi>Hacker</hi> with his Regi<g ref="char:EOLhyphen"/>ment charged the enemy on the right towards <hi>Leith,</hi> routing them and purſuing them within their works, we took two Colours at both places, there were divers killed of the enemy, and many dangerouſly wounded, &amp; but three of ours ſlain, and
+<pb facs="tcp:117393:4"/>
+                  <!-- PDF PAGE 77 -->
+ſome ſmall number wounded, whereof the Major Gen. received two wounds in the thigh and ſhoulder with a Lance in the laſt charge; he having twice before charged in the head of our parties, and in this buſineſſe the Major Gen. Col. <hi>Whaley</hi> and Co. <hi>Hacker</hi> with the reſt of the Officers &amp; Souldiers that engaged deſerve much honour, for their gallantry and reſolution there<g ref="char:EOLhyphen"/>in, Capt. <hi>Gladman,</hi> of the Generals own Troop, and the Cornet thereof were wounded; alſo Cornet <hi>Ruſſell,</hi> Cornet to Captain <hi>Chillendin</hi> were alſo wounded with ſome few Troopers: The Scotch King being upon the Caſtle hill, to ſee his men which he called his Green Hornes beaten on both ſides to <hi>Leith</hi> and <hi>Eden<g ref="char:EOLhyphen"/>burgh</hi> to ſome purpoſe: Therefore that night they took a reſo<g ref="char:EOLhyphen"/>lution at a Councell of warre to redeeme their credit, and re<g ref="char:EOLhyphen"/>ſolved that a party of their beſt horſe of old Souldiers conſi<g ref="char:EOLhyphen"/>ſting of 1500 choſen men commanded by Major Gen. <hi>Mount<g ref="char:EOLhyphen"/>gomery</hi> &amp; Col. <hi>Straughan</hi> ſhould on <hi>Wedneſday</hi> morning 31 <hi>Iuly,</hi> fall upon our quarters to beat them up, and as their own men now priſoners confeſſe that <hi>Straughan</hi> did engage to bring his Excellency our Generall alive or dead to the Prince, which re<g ref="char:EOLhyphen"/>ſolution was followed accordingly; and on <hi>Wedneſday</hi> July 31. they came out by a by way, and came neer our guards, then kept by Col. <hi>Fleetwoods</hi> Regiment, about three in the morning our Scouts diſcovered them, demanding who they were for, they ſaid friends friends, but our men beleeving them not, fired upon them, and gave the Alarme to the guard, who were in a good poſture to receive them, but being over power'd were put to diſ<g ref="char:EOLhyphen"/>order; then Col. <hi>Lilburnes</hi> Regiment received them, and gave them a hot charge, ſo that many of them fell, broake their bo<g ref="char:EOLhyphen"/>dies, put them to the runne, forty or thereabouts ſlaine, and about 100 taken priſoners; among the ſlaine was Major Generall <hi>Montgomery</hi> their commander in chiefe, alſo Col. <hi>Straughan</hi> wounded if not ſlaine. Priſoners taken were as fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <p>Sir <hi>Thomas Nai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne</hi> Lieut. Col. to the Lord <hi>Breckine,</hi> Major <hi>Brice Cockram,</hi> Major to Col. <hi>Straughan. Alexander Facquet</hi> Lieut. to Major <hi>Lindſey</hi> in Col: <hi>Oſan's</hi> Regiment, <hi>Iames Browne</hi> Cornet to the Lord <hi>Breckin, Ioſeph Shet</hi> Cornet to Captain <hi>Fairle</hi> in Col. <hi>Strauhans</hi> Regiment. Three of the Lifeguard to Gene<g ref="char:EOLhyphen"/>rall <hi>Leven.</hi> With 80 Troopers.</p>
+               <p>
+                  <pb facs="tcp:117393:4"/>
+                  <!-- PDF PAGE 77 -->Theſe are already brought into the cuſtody of the Marſhall Generall, there are many other priſoners in the ſeverall Regi<g ref="char:EOLhyphen"/>ments, and wounded which are not brought in.</p>
+               <p>Yeſterday the Scottiſh Generall ſent a Trumpeter to his Ex<g ref="char:EOLhyphen"/>cellency with two priſoners they had taken of ours, one was one of the Corporalls of the field, aad the other a Trooper: To an<g ref="char:EOLhyphen"/>ſwer which Civillity, the Lord generall ſent back two of his Lifeguard, and a Trooper.</p>
+               <p>There are ſeverall Veſſels of proviſions from <hi>Newcaſtle</hi> and other parts come in for our Souldiers, which are now unlading, which gives them encouragement. We hope thoſe from <hi>London</hi> will be here ſuddenly, the people being more baſe in hiding their proviſions, then the country is barren of producing them. The priſoners ſay the Prince came to <hi>Edinburgh</hi> laſt night; moſt of thoſe who came forth were Engliſh cavaliers. The priſo<g ref="char:EOLhyphen"/>ners ſay they promiſed to bring the Lord Gen. <hi>Cromwell</hi> to him; not 100. of them got backe to <hi>Edinburgh</hi> in a body. Our men had the purſuit of them four miles, Col. <hi>Brights</hi> Regiment of Foot being drawn up in the field, kild many of them. We loſt onely Col. <hi>Lilburns</hi> Cornet, and ſome few ſouldiers.</p>
+               <closer>
+                  <dateline>
+                     <hi>Muſleborough,</hi> 
+                     <date>
+                        <hi>July</hi> 31. 1650.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <p>SInce the writing of the former we are further informed by the priſoners taken, and other certain information, that the party of 1500 horſe who came out of <hi>Edinburgh</hi> were the choi<g ref="char:EOLhyphen"/>ſeſt of their horſe. That Major Gen. <hi>Straughan</hi> at the councell of War the night before had engaged to the Prince to bring the Lord Gen <hi>Cromwell</hi> to him alive or dead, and therefore deſired to command the party; but it being not thought fit to truſt him Major Gen. <hi>Montgomery</hi> was appointed to command the party, and Col. <hi>Straughan</hi> to bring up the reare. They came out of <hi>E<g ref="char:EOLhyphen"/>dinburgh</hi> about ten of the clock at night, and went ſixteen miles about; when the firſt party of our men took the alarm, which were Col. <hi>Lilburnes</hi> men, two of them came before as friends (being Engliſh) and told our men it was a falſe alarm, where<g ref="char:EOLhyphen"/>upon they diſmounted, and ſo the enemy came upon them im<g ref="char:EOLhyphen"/>mediately, but did not much prejudice, onely Col. <hi>Lilburnes</hi> Cornet kild, and two or three others hurt, their intention rea<g ref="char:EOLhyphen"/>ching to more then that guard.</p>
+               <p>They came on to <hi>Muſlebrough</hi> Towne, and in the way Col.
+<pb facs="tcp:117393:5"/>
+                  <!-- PDF PAGE 78 -->
+                  <hi>Fleetwoods</hi> three Troops met with them and ſcattered them, and comming by Col. <hi>Brights</hi> Regiment they gave them ſo great a volly that it tooke off many from their horſes, three horſes were kild and a Corporals legges taken off at one Drake ſhot from that Regiment, our men ſcattered them ſo that ſome of them were taken in <hi>Muſlebrough</hi> Towne; wee had the purſuite of them for foure Miles, and our Dragoones which quartered that night within a Mile of <hi>Edenburgh</hi> met them and kill'd di<g ref="char:EOLhyphen"/>vers of them. Amongſt the reſt of thoſe that were ſlaine of thoſe Major Gen. <hi>Mongomery</hi> was one, the reſt are not yet known. One of them who was kild by our men was heard upon his laſt Gaſpe to ſay, Dam me Ile to my King. They were moſt Engliſh Cavaliers that charg'd in this and the firſt engagement; at both places, they were heard to ſay, we are <hi>Morris</hi> his men, remem<g ref="char:EOLhyphen"/>ber <hi>Pontefract.</hi> The Prince (tis ſaid) gave to each of them two ſhillings to drink, which made them drunk.</p>
+               <p>Capt. <hi>VVilford</hi> a Gentleman in my Lords own Troop, being on Tueſday taken priſoner, (his horſe being kild under him) was carried to <hi>Leith,</hi> where he was very courteouſly uſed by Lieu. Gen. <hi>David Leſley,</hi> who kept him at his own houſe, where reſor<g ref="char:EOLhyphen"/>ted to him divers of their Miniſters and Commanders who de<g ref="char:EOLhyphen"/>manded of him how long he had ſerved under Antichriſt, that proud man <hi>Cromwell,</hi> over whoſe head the curſe of God hung for murdering the King, breaking the Covenant, and they did expect daily when the Lord ſhould deliver him into their hands, they ſaying he termed his Guns his twelve Apoſtles, and that he put his whole confidence in them, and the commanders old Cavaliere like did ſweare moſt deſperately that they had taken 18 of our Colours, and the Miniſters ſaid that our ſhips in the Haven were revolted to the King. Which your <hi>London</hi> Cavaliers may perhaps believe.</p>
+               <closer>
+                  <dateline>
+                     <hi>Muſleborough,</hi> 
+                     <date>
+                        <hi>Auguſt</hi> 1. 1650.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
